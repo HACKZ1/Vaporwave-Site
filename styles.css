@@ -1,0 +1,113 @@
+body {
+    margin-top: 0px;
+    position: relative;
+    width: 1440px;
+    height: 1024px;
+    background: #1B2432;
+}
+
+nav {
+    position: absolute;
+    padding: 2px;
+    width: 1800px;
+    height: 79px;
+    left: -296px;
+    top: 0px;
+    background-color: #121420;
+}
+
+.nav-forums-text a {
+    position: absolute;
+    width: 125px;
+    height: 48px;
+    left: 368px;
+    top: 19px;
+    font-family: Open Sans;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 35px;
+    line-height: 48px;
+    color: #FFFFFF;
+    text-decoration: none;
+}
+
+.nav-forums-text a:hover {
+    position: absolute;
+    width: 125px;
+    height: 48px;
+    left: 368px;
+    top: 19px;
+    font-family: Open Sans;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 35px;
+    line-height: 43px;
+    color: #c0c0c0;
+    text-decoration: overline;
+    transition: .25s;
+}
+
+.nav-news-text a {
+    position: absolute;
+    width: 90px;
+    height: 48px;
+    left: 1628px;
+    top: 19px;
+    font-family: Open Sans;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 35px;
+    line-height: 48px;
+    color: #FFFFFF;
+    text-decoration: none;
+}
+
+.nav-news-text a:hover {
+    position: absolute;
+    width: 90px;
+    height: 48px;
+    left: 1628px;
+    top: 19px;
+    font-family: Open Sans;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 35px;
+    line-height: 43px;
+    color: #c0c0c0;
+    text-decoration: overline;
+    transition: .25s;
+}
+
+.button {
+    position: absolute;
+    width: 348px;
+    height: 118px;
+    left: 880px;
+    top: 23px;
+    line-height: 30px;
+    background: #FFC700;
+    border-radius: 31px;
+    font-family: Open Sans;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 35px;
+    color: #FFFFFF;
+    outline: none;
+}
+
+.btn-image {
+    position: center;
+    width: 348px;
+    height: 122px;
+    left: 546px;
+    top: 19px;
+}
+
+.vapor-img {
+    position: absolute;
+    width: 330px;
+    height: 332px;
+    left: 160px;
+    top: 191px;
+
+}
