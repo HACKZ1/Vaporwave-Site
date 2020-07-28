@@ -117,7 +117,7 @@ nav {
     position: absolute;
     width: 4000px;
     height: 108px;
-    left: 963px;
+    left: 900px;
     top: 208px;
     font-family: Open Sans;
     font-style: normal;
@@ -131,7 +131,7 @@ nav {
     position: absolute;
     width: 447px;
     height: 126px;
-    left: 891px;
+    left: 931px;
     top: 400px;
     font-family: Open Sans;
     font-style: normal;
@@ -146,4 +146,57 @@ nav {
     resize: none;
     background-color: #00E1DF;
     border: none;
+}
+
+hr {
+    position: absolute;
+    width: 1414px;
+    height: 0px;
+    left: 14px;
+    top: 700px;
+    border: 10px solid #2C2B3C;
+}
+
+.side-text h3 {
+    position: absolute;
+    width: 618px;
+    height: 95px;
+    left: 54px;
+    top: 689px;
+    font-family: Open Sans;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 70px;
+    line-height: 95px;
+    color: #FFFFFF;
+}
+
+.side-text-2 h5 {
+    position: absolute;
+    width: 524px;
+    height: 48px;
+    left: 187px;
+    top: 784px;
+    font-family: Open Sans;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 30px;
+    line-height: 41px;
+    color: #B76D68;
+}
+
+.side-button button {
+    position: absolute;
+    width: 433px;
+    height: 107px;
+    left: 894px;
+    top: 770px;
+    background: #FF3747;
+    outline: none;
+    font-family: Open Sans;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 30px;
+    color: #FFFFFF;
+    border-radius: 15px;
 }
