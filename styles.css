@@ -4,7 +4,7 @@ body {
     width: 1000px;
     height: 1024px;
     background: #1B2432;
-    overflow-x: scroll;
+    overflow-x: hidden;
     overflow-y: scroll;
 }
 
